@@ -1,3 +1,15 @@
+## Changes between 1.5.0 and 1.6.x (rev count)
+
+Built by [tools.build](https://github.com/clojure/tools.build).
+
+### Dependencies
+
+1. Updates guava to 32.1.2-jre
+
+Test dependencies
+1. Update cheshire to 5.11.0
+2. Update clj-time to 0.15.2
+
 ## Changes between ClojureWerkz Support 1.5.0 and 1.6.0 (unreleased)
 
 No changes yet.

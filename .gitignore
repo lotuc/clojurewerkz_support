@@ -8,3 +8,7 @@ TAGS
 checkouts/*
 target
 .nrepl*
+.clj-kondo/.cache
+.lsp/.cache
+.lsp/sqlite.db
+.cpcache
